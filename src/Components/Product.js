@@ -24,14 +24,14 @@ const Product = () => {
   return (
     <div className="bg-dark">
       <nav className="navbar navbar-expand-lg">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           T A N N T R I M
         </a>
         <button
           className="navbar-toggler text-white"
           type="button"
           data-toggle="collapse"
-          data-target="#navbarNav"
+          data-target="/navbarNav"
           aria-controls="navbarNav"
           aria-expanded="false"
           aria-label="Toggle navigation"
@@ -44,17 +44,17 @@ const Product = () => {
         >
           <ul className="navbar-nav ms-auto">
             <li className="nav-item me-3">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 <i className="bi bi-search text-white fs-5"></i>
               </a>
             </li>
             <li className="nav-item me-3">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 <i className="bi bi-person text-white fs-5"></i>
               </a>
             </li>
             <li className="nav-item me-3">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 <svg
                   aria-label="Saved"
                   className="x1lliihq x1n2onr6 x5n08af mx-2 my-2"
@@ -77,7 +77,7 @@ const Product = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 <i className="bi bi-bag text-white fs-5"></i>
               </a>
             </li>
@@ -92,27 +92,27 @@ const Product = () => {
         >
           <ul className="navbar-nav ">
             <li className="nav-item me-5">
-              <a className="nav-link text-white" href="#">
+              <a className="nav-link text-white" href="/">
                 Bags
               </a>
             </li>
             <li className="nav-item me-5">
-              <a className="nav-link text-white" href="#">
+              <a className="nav-link text-white" href="/">
                 Travel
               </a>
             </li>
             <li className="nav-item me-5">
-              <a className="nav-link text-white" href="#">
+              <a className="nav-link text-white" href="/">
                 Accessories
               </a>
             </li>
             <li className="nav-item me-5">
-              <a className="nav-link text-white" href="#">
+              <a className="nav-link text-white" href="/">
                 Gifting
               </a>
             </li>
             <li className="nav-item me-5">
-              <a className="nav-link text-white" href="#">
+              <a className="nav-link text-white" href="/">
                 Jewelry
               </a>
             </li>
@@ -191,7 +191,7 @@ const Product = () => {
                   <div class="top-0">
                     <div class="card-element-h d-flex justify-content-end">
                       <a
-                        href="#"
+                        href="/"
                         class="icon-md bg-white rounded-circle text-center"
                       ></a>
                     </div>
