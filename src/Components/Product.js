@@ -188,11 +188,7 @@ const Product = () => {
                     className="card-img-top p-3"
                     alt={item.title}
                   />
-                  <div class="top-0">
-                    <div class="card-element-h d-flex justify-content-end">
-                      <a href="/" class="icon-md bg-white rounded-circle text-center"></a>
-                    </div>
-                  </div>
+              
                 </div>
                 <div className="card-body p-0 pt-3 pb-1 bg-dark text-center">
                   <h5 className="card-title text-white">{item.title}</h5>
