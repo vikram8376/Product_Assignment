@@ -190,10 +190,7 @@ const Product = () => {
                   />
                   <div class="top-0">
                     <div class="card-element-h d-flex justify-content-end">
-                      <a
-                        href="/"
-                        class="icon-md bg-white rounded-circle text-center"
-                      ></a>
+                      <a href="/" class="icon-md bg-white rounded-circle text-center"></a>
                     </div>
                   </div>
                 </div>
